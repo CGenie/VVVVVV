@@ -1,5 +1,6 @@
 .{
-    .name = "VVVVVV",
+    .name = .VVVVVV,
+    .fingerprint = 0x34f87c4df16ee86b,
     .version = "0.0.0",
     .minimum_zig_version = "0.13.0",
     .dependencies = .{
@@ -8,8 +9,8 @@
             .hash = "12205a24de32aa7d0c9857320b6fb5d644b7c7af1d60dff4f5e0257881f9b0c98f3d",
         },
         .sdl = .{
-            .url = "git+https://github.com/allyourcodebase/SDL#7e4fc30b201d266f197fef4153f7e046bd189a7c",
-            .hash = "1220c57b0bec66a2378e90cd7a79e36f9e7f60c02acca769ab3e6f974d4ef6766418",
+            .url = "git+https://github.com/allyourcodebase/SDL#35d2548e41d5c3ea1e6bd22631b1ff1d352fd174",
+            .hash = "1220baaf8003313e71facd5de61b46b1654c089a2baf719612f2f0b0ec06c74d67eb",
         },
         .physfs = .{
             .url = "https://github.com/icculus/physfs/archive/bfa7997c671957eb0a340ff1cf3c634e6269904a.tar.gz",
@@ -36,8 +37,8 @@
             .hash = "1220521ded1568db149ba4bd4e51aef847d31b760f402b6719137c1fa4b67d2c17e9",
         },
         .zipcmdline = .{
-            .url = "https://github.com/marler8997/zipcmdline/archive/436c68f8993a355f6ef0c65b43fd7d56d06bcedc.tar.gz",
-            .hash = "12203409341d97b9ed71926213814b88c3d3181ea944192278fc73357a2de6ca22dc",
+            .url = "https://github.com/marler8997/zipcmdline/archive/376f65b28aa02a39f7277cd36a1b8d8f170704cc.tar.gz",
+            .hash = "122026b63e41ef49d75b8dcb776ed172d15fafbccef44120eed1463e8960d9b70258",
         },
         .makeandplay = .{
             .url = "https://thelettervsixtim.es/makeandplay/data.zip",
